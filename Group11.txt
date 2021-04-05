@@ -1,0 +1,8 @@
+Member 1:   1181103370   AVINASH IMANUEL A/L GANA RAJ IMANUEL
+Member 2:   1191101423   KISHEN KUMAR A/L SIVALINGAM
+Member 3:   1181103485   SATISHNAIR A/L KRISHNAN
+
+TASK DISTRIBUTION
+1. Sorting and determining the highest point.   (AVINASH IMANUEL A/L GANA RAJ IMANUEL)
+2. Dealing of cards and identify the winner in each round.  (SATISHNAIR A/L KRISHNAN)
+3. Sum of score and the overall flow of the game.  (KISHEN KUMAR A/L SIVALINGAM)
