@@ -89,6 +89,7 @@ java BlackJavaGame.com.Main
 ---
 
 ## File Structure
+```bash
 BlackJava/
 │
 ├── Assignment2.pdf                  # Assignment documentation
@@ -106,6 +107,7 @@ BlackJava/
 │
 ├── README.md                         # Documentation for the project
 └── Group11.txt                       # Group members and contributions
+```
 
 ---
 
