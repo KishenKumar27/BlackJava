@@ -75,7 +75,7 @@ This repository contains the source code for a card game simulation developed as
 To compile and run the program:
 ```bash
 javac *.java
-java BlackJavaGame.com.Main
+java Main
 ```
 
 ---
