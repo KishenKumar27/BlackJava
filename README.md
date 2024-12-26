@@ -90,19 +90,22 @@ java BlackJavaGame.com.Main
 
 ## File Structure
 BlackJava/
-│   └── Assignment2.pdf
-│   └── CardFX/
-│   └── BlackJavaGame/
-│       └── com/
-│           ├── Main.java               # Entry point of the application
-│           ├── Game.java               # Main game logic and flow
-│           ├── Player.java             # Represents individual players
-│           ├── Card.java               # Represents individual cards
-│           ├── DeckManagers.java       # Handles deck creation, shuffling, and management
-│           └── SortBySuitFace.java     # Comparator for sorting cards by suit and face value
+│
+├── Assignment2.pdf                  # Assignment documentation
+│
+├── CardFX/                           # Folder for any related CardFX resources
+│
+├── BlackJavaGame/                    # Main game directory
+│   └── com/                          # Package containing game logic
+│       ├── Main.java                 # Entry point of the application
+│       ├── Game.java                 # Main game logic and flow
+│       ├── Player.java               # Represents individual players
+│       ├── Card.java                 # Represents individual cards
+│       ├── DeckManagers.java         # Handles deck creation, shuffling, and management
+│       └── SortBySuitFace.java       # Comparator for sorting cards by suit and face value
+│
 ├── README.md                         # Documentation for the project
-└── Group11.txt                        # Group members and contributions
-
+└── Group11.txt                       # Group members and contributions
 
 ---
 
